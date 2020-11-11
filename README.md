@@ -10,4 +10,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+example text bla bla bla
+
 ## How To Contribute
