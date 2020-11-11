@@ -14,4 +14,6 @@ example text bla bla bla
 
 ## How To Contribute
 antoher modigication
+please fork this repository
+
 and the last one
